@@ -2,7 +2,7 @@
   "name": "product-management-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kerbal12.github.io/product-management-app",
+  "homepage": "https://kerbal12.github.io/prodManagementApp",
   "dependencies": {
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
