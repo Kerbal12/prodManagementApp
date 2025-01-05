@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prodManagementApp/product-management-app/static/css/main.52af63ed.css",
+    "main.js": "/prodManagementApp/product-management-app/static/js/main.5353ef24.js",
+    "static/js/488.705fbfad.chunk.js": "/prodManagementApp/product-management-app/static/js/488.705fbfad.chunk.js",
+    "index.html": "/prodManagementApp/product-management-app/index.html",
+    "main.52af63ed.css.map": "/prodManagementApp/product-management-app/static/css/main.52af63ed.css.map",
+    "main.5353ef24.js.map": "/prodManagementApp/product-management-app/static/js/main.5353ef24.js.map",
+    "488.705fbfad.chunk.js.map": "/prodManagementApp/product-management-app/static/js/488.705fbfad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52af63ed.css",
+    "static/js/main.5353ef24.js"
+  ]
+}
